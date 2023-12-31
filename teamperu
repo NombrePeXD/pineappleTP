@@ -103,7 +103,7 @@ TextBox.BorderColor3 = Color3.fromRGB(54, 54, 54)
 TextBox.Position = UDim2.new(0.345004708, 0, 0.104059465, 0)
 TextBox.Size = UDim2.new(0, 125, 0, 26)
 TextBox.Font = Enum.Font.Code
-TextBox.Text = "Membayangkan"
+TextBox.Text = "Visualizer"
 TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextBox.TextSize = 14.000
 
@@ -114,7 +114,7 @@ TextBox_2.BorderColor3 = Color3.fromRGB(54, 54, 54)
 TextBox_2.Position = UDim2.new(0.678338051, 0, 0.104059465, 0)
 TextBox_2.Size = UDim2.new(0, 119, 0, 26)
 TextBox_2.Font = Enum.Font.Code
-TextBox_2.Text = "permainan massal"
+TextBox_2.Text = "Mass-play"
 TextBox_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextBox_2.TextSize = 14.000
 
@@ -130,7 +130,7 @@ TextLabel_3.BackgroundTransparency = 1.000
 TextLabel_3.Position = UDim2.new(0.40856266, 0, 0.297674388, 0)
 TextLabel_3.Size = UDim2.new(0, 69, 0, 26)
 TextLabel_3.Font = Enum.Font.Code
-TextLabel_3.Text = "pengaturan"
+TextLabel_3.Text = "dsc.gg/teamperu"
 TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_3.TextSize = 15.000
 
@@ -146,7 +146,7 @@ TextLabel_4.BackgroundTransparency = 1.000
 TextLabel_4.Position = UDim2.new(0.0606433637, 0, 0.0342337564, 0)
 TextLabel_4.Size = UDim2.new(0, 69, 0, 13)
 TextLabel_4.Font = Enum.Font.Code
-TextLabel_4.Text = "Sudut Utama"
+TextLabel_4.Text = "Main Angle"
 TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_4.TextSize = 13.000
 
